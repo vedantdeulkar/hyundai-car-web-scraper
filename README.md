@@ -11,8 +11,11 @@ https://www.carwale.com/hyundai-cars/
 
 # 🛠️ Technologies Used
 •	Python
+
 •	BeautifulSoup
+
 •	Requests
+
 •	Pandas
 
 # 📊 Features
