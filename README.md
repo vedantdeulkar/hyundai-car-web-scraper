@@ -1,4 +1,4 @@
-# hyundai-car-web-scraper
+# carwale hyundai-car-web-scraper
 Python web scrapping project that extracts electric bike details from the CarWale website using BeautifulSoup and stores structured data in CSV format.
 
 # 🚗 Hyundai Car Web Scraper
