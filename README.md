@@ -9,12 +9,23 @@ This project scrapes Hyundai car listings from the CarWale website and collects 
 Website scraped:
 https://www.carwale.com/hyundai-cars/
 
+# 🛠️ Technologies Used
+•	Python
+•	BeautifulSoup
+•	Requests
+•	Pandas
+
 # 📊 Features
 ✔ Scrapes Hyundai car data from CarWale
+
 ✔ Extracts car model names, prices, and specifications
+
 ✔ Handles multiple car listings efficiently
+
 ✔ Cleans and structures raw data
+
 ✔ Stores processed data in CSV format
+
 ✔ Easily extendable to other car brands
 
 
